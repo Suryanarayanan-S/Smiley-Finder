@@ -1,0 +1,4 @@
+list(APPEND UNITTEST_SOURCE_FILES
+    ${CMAKE_CURRENT_LIST_DIR}/AnalyzerTest.cpp
+    ${CMAKE_CURRENT_LIST_DIR}/CmdLineParserTest.cpp
+)

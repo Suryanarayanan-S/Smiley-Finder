@@ -1,0 +1,21 @@
+                                       |Lines       |Functions  |Branches    
+Filename                               |Rate     Num|Rate    Num|Rate     Num
+=============================================================================
+[/home/developer/workspace/tryings/sample/src/]
+core/Analyzer.cpp                      | 100%     16| 100%     3|    -      0
+core/CmdLineParser.cpp                 |64.4%     45|75.0%     4|    -      0
+core/CmdLineParser.hpp                 | 100%      1| 100%     1|    -      0
+format/ConsoleFormat.cpp               | 100%     31| 100%     4|    -      0
+format/ConsoleFormat.hpp               | 100%      1| 100%     1|    -      0
+format/TextFormat.cpp                  |97.2%     36| 100%     5|    -      0
+format/TextFormat.hpp                  | 100%      1| 100%     1|    -      0
+format/XmlFormat.cpp                   |97.7%     44| 100%     5|    -      0
+format/XmlFormat.hpp                   | 100%      1| 100%     1|    -      0
+output/Output.cpp                      | 100%      7| 100%     2|    -      0
+output/Output.hpp                      | 100%      1| 100%     1|    -      0
+output/OutputFormatSettings.cpp        | 100%      8| 100%     3|    -      0
+output/OutputFormatSettings.hpp        | 100%      1| 100%     1|    -      0
+output/OutputMessage.cpp               | 100%     10| 100%     4|    -      0
+output/OutputMessage.hpp               | 100%      1| 100%     1|    -      0
+=============================================================================
+                                 Total:|91.2%    204|97.3%    37|    -      0
